@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "def why_do_i_like_to(program)"
-date:       2019-11-17 23:32:28 +0000
+date:       2019-11-17 18:32:29 -0500
 permalink:  def_why_do_i_like_to_program
 ---
 
@@ -17,7 +17,7 @@ I tried to self learn to program, because programming allows you to create solut
 Learning to program is not as difficult as people think, it is not as different as learning to play an instrument, cooking or playing a sport, at first it seems difficult, but as you learn it becomes more and more interesting and easy. Programming is like having super powers because it gives you that possibility to create your own projects, that freedom to be able to create new things, expand all your horizons and above all it helps you to change your way of thinking.
 
 
-**It is a rise and fall of emotions**
+***It is a rise and fall of emotions***
 
 After writing a couple of lines of code and testing it, you realize that you have a logic error, you don't get the result that you are supposed to get, which makes you curse who gave you a certain lab/project, the worst part is that everything is "Correctly" written and the computer does exactly what you asked it to do.
 
